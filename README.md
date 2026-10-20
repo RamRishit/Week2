@@ -1,3 +1,3 @@
 # Week2
 
-Note: Upload the audio files to the google colab note before running the code 
+Note: Upload the audio files to the google colab before running the code 
